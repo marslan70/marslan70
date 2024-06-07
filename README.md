@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Muhammad Arslan</h1>
 <h3 align="center">🎓 I’m a Front-End Developer with a passion for building responsive and user-friendly web applications.</h3>
-
+<h4 align="center"> I recently graduated with a degree in Software Engineering, where I honed my skills in web development, user interface design, and coding best practices. My expertise lies in creating dynamic, high-performance web applications using modern technologies. </h4> 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=marslan70&label=Profile%20views&color=0e75b6&style=flat" alt="marslan70" /> </p>
 
 - 👨‍💻 All of my projects are available at: [https://github.com/marslan70?tab=repositories](https://github.com/marslan70?tab=repositories)
